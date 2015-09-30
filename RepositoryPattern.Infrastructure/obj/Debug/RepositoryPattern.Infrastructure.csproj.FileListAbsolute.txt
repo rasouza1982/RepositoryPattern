@@ -1,0 +1,9 @@
+C:\Projects\RepositoryPattern\RepositoryPattern.Infrastructure\bin\Debug\RepositoryPattern.Infrastructure.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.Infrastructure\bin\Debug\RepositoryPattern.Infrastructure.pdb
+C:\Projects\RepositoryPattern\RepositoryPattern.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\RepositoryPattern\RepositoryPattern.Infrastructure\obj\Debug\RepositoryPattern.Infrastructure.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.Infrastructure\obj\Debug\RepositoryPattern.Infrastructure.pdb
+C:\Users\rafael.carvalho\Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Infrastructure\bin\Debug\RepositoryPattern.Infrastructure.dll
+C:\Users\rafael.carvalho\Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Infrastructure\bin\Debug\RepositoryPattern.Infrastructure.pdb
+C:\Users\rafael.carvalho\Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Infrastructure\obj\Debug\RepositoryPattern.Infrastructure.dll
+C:\Users\rafael.carvalho\Desktop\RepositoryPattern\RepositoryPattern\RepositoryPattern.Infrastructure\obj\Debug\RepositoryPattern.Infrastructure.pdb
